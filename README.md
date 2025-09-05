@@ -32,6 +32,7 @@ We wanted to learn how a racing game works: movement physics, laps, checkpoints,
 * Start game by pressing button
 * Accelerate/Decelerate by tilting forwards/backwards
 * Wireless controls (with a NodeMCU)
+* We built a acrylic case with laser cutting
 
 <!-- ## Basic Controls (Keyboard for now)
 
