@@ -56,7 +56,7 @@ We wanted to learn how a racing game works: movement physics, laps, checkpoints,
 * Audio scripts – Swap engine / coin / music sounds.
 * Prefabs – Ready-made kart, coins, tracks, hands (for future VR / interaction ideas).
 
-## Project Folder Stuff (Important Parts Only)
+## Project Folder
 
 * `Assets/` – All the game content (scripts, scenes, prefabs, sounds, models, materials).
 * `Packages/` – Which Unity packages we use (version locked so it’s reproducible).
@@ -80,7 +80,7 @@ We wanted to learn how a racing game works: movement physics, laps, checkpoints,
 * Maybe add lap timer + UI scoreboard.
 * Maybe power-ups (speed boost?). -->
 
-## How To Open It Yourself
+## Installation
 
 1. Install Unity Hub.
 2. Add the project with Unity version: 2022.3.20f1.
