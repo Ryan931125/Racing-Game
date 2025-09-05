@@ -31,7 +31,7 @@ We wanted to learn how a racing game works: movement physics, laps, checkpoints,
 * Turn left/right by tilting left/right (with a MPU-6050)
 * Start game by pressing button
 * Accelerate/Decelerate by tilting forwards/backwards
-* Wireless controls (with a NodeMCU)
+* Wireless controls (with a NodeMCU board)
 * We built a acrylic case with laser cutting
 
 <!-- ## Basic Controls (Keyboard for now)
